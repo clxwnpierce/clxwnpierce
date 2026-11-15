@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://itztvtime.atabook.org/"><img src="https://github.com/user-attachments/assets/92c6da9d-60b4-4390-9e55-f0ae020354d3" width="120"></a>&nbsp;&nbsp;<a href="https://shitzandgiggles.straw.page"><img src="https://github.com/user-attachments/assets/bfdb90e9-0c91-4453-8cbb-01c7fb32f257" width="120"></a>
+<a href="https://itztvtime.atabook.org/"><img src="https://github.com/user-attachments/assets/92c6da9d-60b4-4390-9e55-f0ae020354d3" width="180"></a>&nbsp;&nbsp;<a href="https://shitzandgiggles.straw.page"><img src="https://github.com/user-attachments/assets/bfdb90e9-0c91-4453-8cbb-01c7fb32f257" width="180"></a>
 </p>
 
 
